@@ -110,8 +110,5 @@ dist
 # MacOs file
 .DS_Store
 
-#Hide docs
-docs/
-
 #Hide lock file
 yarn.lock
