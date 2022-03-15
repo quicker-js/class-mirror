@@ -1,4 +1,4 @@
-# mirror
+# class-mirror
 The @quicker-js/class-mirror is typescript metadata decorator framework.
 
 [![npm (scoped)](https://img.shields.io/npm/v/@quicker-js/class-mirror)](https://www.npmjs.com/package/@quicker-js/class-mirror)
